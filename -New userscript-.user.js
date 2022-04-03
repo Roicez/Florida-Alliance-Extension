@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         osu! Logo template
+// @name         Florida alliance template
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  try to take over the canvas!
