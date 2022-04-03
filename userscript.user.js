@@ -16,7 +16,7 @@ if (window.top !== window.self) {
                 i.src = "https://cdn.discordapp.com/attachments/959963428506701834/960259196622876702/Florida_Down_Dot_Template.png";
                 i.onload = () => {
                     if (i.width === i.height) {
-                        i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 1000px;height: 1000px;";
+                        i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 2000px;";
                     } else {
                         i.style = "position: absolute;left: 0;top: 0;image-rendering: pixelated;width: 2000px;height: 1000px;";
                     }
