@@ -20,7 +20,7 @@ if (window.top !== window.self) {
         // Add the image as overlay
         const camera = document.querySelector("mona-lisa-embed").shadowRoot.querySelector("mona-lisa-camera");
         const canvas = camera.querySelector("mona-lisa-canvas");
-        canvas.shadowRoot.querySelector('.container').appendChild(image);
+        canvas.shadowRoot.querySelector('.container').appendChild(https://cdn.discordapp.com/attachments/959963428506701834/960259196622876702/Florida_Down_Dot_Template.png);
       
         // Add a style to put a hole in the pixel preview (to see the current or desired color)
         const waitForPreview = setInterval(() => {
